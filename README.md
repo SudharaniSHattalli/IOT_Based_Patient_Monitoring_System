@@ -5,12 +5,12 @@ And it is simulated on proteus and also it store the data(temperature,
 humidity,pulserate) on Thingspeak.
 
 #Requirements:
-Arduino Mega 2560
-DHT11 Sensor
-HEARTBEAT Sensor
+Arduino Mega 2560,
+DHT11 Sensor,
+HEARTBEAT Sensor.
 
 #Software Requirement:
-Proteous(8.9 above version )
-VSPE(Virtual Serial Port Emulator)
-PyCharm
-Arduino IDE
+Proteous(8.9 above version ),
+VSPE(Virtual Serial Port Emulator),
+PyCharm,
+Arduino IDE.
